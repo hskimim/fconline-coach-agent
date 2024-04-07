@@ -25,6 +25,12 @@
 - [ ] planning, memory 가 탑재된 대화 -> 계속된 대화를 통해 전술을 교정해나간다.
 - [ ] 개별 선수를 포지션이 아닌 이름으로 호출 ex) 윙백을 오버래핑시켜! -> 아놀드를 오버래핑시켜!
 
+
+## Requirements
+- Linux, Mac OS, or WSL on Windows
+- Python >= 3.11
+- Poetry >= 1.8
+
 ## How to use
 
 1. Install Dependencies
